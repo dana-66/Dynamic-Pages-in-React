@@ -1,0 +1,31 @@
+{
+    "recipes": [
+    {
+        "id": "1",
+        "title": "Spaghetti Bolognese",
+        "author": "John Smith",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 can crushed tomatoes",
+            "1/4 cup tomato paste",
+            "1/2 cup beef broth",
+            "1 teaspoon dried oregano",
+            "1 teaspoon dried basil",
+            "Salt and pepper to taste",
+            "8 ounces spaghetti"
+        ],
+        "instructions": [
+            "In a large skillet, cook ground beef over medium heat until browned.",
+            "Add onion and garlic to the skillet and cook until softened.",
+            "Stir in crushed tomatoes, tomato paste, beef broth, oregano, basil.",
+            "Simmer the sauce for 20 minutes, stirring occasionally.",
+            "Cook spaghetti according to package instructions.",
+            "Serve the sauce over cooked spaghetti."
+        ],
+        "cookingTime": 30,
+        "tags": ["pasta", "Italian", "dinner"]
+    }
+ ]
+}
